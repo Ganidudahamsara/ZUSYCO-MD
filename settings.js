@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "𝗚𝗮𝗴𝗮𝗻𝗮ᴼᶠᶠᴵᶜᴵᴬᴸ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://telegra.ph/file/86ba172691ab937ffd816.mp4',
+    ALIVE: 'https://telegra.ph/file/687acb5526518003a2296.png',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
