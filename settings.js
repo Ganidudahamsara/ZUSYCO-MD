@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94725246586",
-  SUDO_NUMBERS : "94725246586,94768943935",
-  OWNER_NAME: "Hasi..💕",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94768943935",
+  SUDO_NUMBERS : "94768943935,94761043935",
+  OWNER_NAME: "𝗚𝗮𝗴𝗮𝗻𝗮ᴼᶠᶠᴵᶜᴵᴬᴸ",
+  BOT_NAME : "𝗚𝗮𝗴𝗮𝗻𝗮ᴼᶠᶠᴵᶜᴵᴬᴸ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://telegra.ph/Alive-video-04-06',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -32,11 +32,11 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_TYPE : "privet",
+  WORK_MODE : "onlyinbox",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '©MR_GD',
-  STICKER_PACK : '[ MR-GD ]',
+  CAPTION : '©𝗚𝗮𝗴𝗮𝗻𝗮ᴼᶠᶠᴵᶜᴵᴬᴸ',
+  STICKER_PACK : '[𝗚𝗮𝗴𝗮𝗻𝗮ᴼᶠᶠᴵᶜᴵᴬᴸ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -49,7 +49,7 @@ module.exports = {
   },
   READ : {
      ALL_MESSAGES : false,
-     ONLY_COMMANDS : false,
+     ONLY_COMMANDS : true,
      STATUS : true,
   },
   BOT_OFFLINE : false,
